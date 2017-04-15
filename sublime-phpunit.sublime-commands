@@ -1,0 +1,4 @@
+[
+    { "caption": "Sublime AdonisJS Mocha: Run This File", "command": "run_adonisjs_test" },
+    { "caption": "Sublime AdonisJS Mocha: Run All Tests", "command": "run_all_adonisjs_tests" }
+]
